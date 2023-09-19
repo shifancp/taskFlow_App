@@ -1,6 +1,6 @@
 # task_flow_app
 
-A new Flutter project.
+TaskFlow is your productivity companion, designed to streamline your task management experience.
 
 ## Getting Started
 
