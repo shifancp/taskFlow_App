@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/shifancp/demo_app2/linux"
+    "cmake.sourceDirectory": "/Users/shifancp/task_flow_app/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

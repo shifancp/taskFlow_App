@@ -1,8 +1,8 @@
-import 'package:demo_app2/screens/add_screen.dart';
-import 'package:demo_app2/screens/home_screen.dart';
-import 'package:demo_app2/screens/signupscreen.dart';
-import 'package:demo_app2/screens/splash.dart';
-import 'package:demo_app2/screens/update.dart';
+import 'package:task_flow_app/screens/add_screen.dart';
+import 'package:task_flow_app/screens/home_screen.dart';
+import 'package:task_flow_app/screens/signupscreen.dart';
+import 'package:task_flow_app/screens/splash.dart';
+import 'package:task_flow_app/screens/update.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 

@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:demo_app2/main.dart';
-import 'package:demo_app2/service/auth_service.dart';
+import 'package:task_flow_app/main.dart';
+import 'package:task_flow_app/service/auth_service.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart' as firebase_auth;
 import 'package:shared_preferences/shared_preferences.dart';
